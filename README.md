@@ -1,4 +1,4 @@
-![Mofuk Banner](image/mofuk.png)
+![Mofuk Banner](images/mofuk.png)
 # Mofuk
 
 > *To vanish is not to escape — it is to exist without unnecessary trace.*
