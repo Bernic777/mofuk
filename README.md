@@ -126,12 +126,6 @@ Mofuk is **not a representation** of the tribe, but an inspiration — a technic
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 🤍 Closing
 
 Privacy is not disappearance.
